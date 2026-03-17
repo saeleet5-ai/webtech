@@ -1,3 +1,12 @@
+body {
+    background-color: #F8EFBA;
+    color: #333333;
+}
 .style{
     scroll-behavior: smooth;
+}
+.card{
+    background-color: #f8f9fa; 
+    border-radius: 15px;
+    padding: 1.5rem;
 }
